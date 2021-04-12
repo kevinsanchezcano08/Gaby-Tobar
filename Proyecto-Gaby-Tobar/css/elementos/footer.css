@@ -5,7 +5,7 @@ footer{
     font-family: 'Rubik';
     padding-left: 1%;
     padding-top: 4%;
-    padding-bottom: 2%;
+    padding-bottom: 1%;
    margin-bottom: 20px;
 }
 
@@ -85,4 +85,9 @@ footer .col-1 p{
 }
 #celu{
     padding-top: 40px;
+}
+#copyR{
+    margin-top: 2%;
+    margin-left: 33%;
+    color: #288fb4;
 }
