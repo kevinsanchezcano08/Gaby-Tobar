@@ -149,6 +149,9 @@ footer .col-1 p{
     }
 }
 @media (max-width: 425px){
+    footer{
+        margin-left: -10vw;
+    }
     footer .col-1 h3{
         position: absolute;
        margin-left: -30%;
@@ -171,7 +174,7 @@ footer .col-1 p{
         padding-top: 10px;
     }
     #copyR{
-        margin-left: 10%;
+        margin-left: 25%;
         margin-top: -20%;
     }
 }
