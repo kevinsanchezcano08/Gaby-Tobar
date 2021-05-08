@@ -91,3 +91,124 @@ footer .col-1 p{
     margin-left: 33%;
     color: #288fb4;
 }
+@media (max-width: 1024px){
+
+
+    
+    footer .col-1 p{
+        margin-right: 68%;
+        margin-left: -3%;
+        margin-top: 2%;
+    }
+    footer .col-1, .col-2, .col-3{
+        padding:220px 60px;
+        padding-top: 10px;
+    }
+    .col-2 a {
+        margin-left: -3%;
+    
+    }
+    .col-3 a {
+        margin-top: 2%;
+        margin-left: -3%;
+    }
+    #copyR{
+        margin-left: 25%;
+    }
+}
+@media (max-width: 768px){
+
+    .col-1{
+        border-right: none;
+    }
+    footer .col-1 p{
+        margin-right: 32%;
+        margin-left: -3%;
+        margin-top: 2%;
+    }
+    footer .col-1{
+        display: block;
+        padding:220px 250px;
+        padding-top: 10px;
+    }
+    footer .col-2{
+        padding:220px 110px;
+        padding-top: 10px;
+    }
+    .col-2 a {
+        margin-left: -3%;
+    
+    }
+    .col-3 a {
+        margin-top: 2%;
+        margin-left: -3%;
+    }
+    #copyR{
+        margin-top: 2%;
+        margin-left: 18%;
+    }
+}
+@media (max-width: 425px){
+    footer .col-1 h3{
+        position: absolute;
+       margin-left: -30%;
+       margin-top: -8%;
+    }
+    footer .col-1 p{
+        margin-right: 12%;
+        margin-left: -32%;
+        margin-top: 2%;
+    }
+    footer .col-1{
+        display: block;
+        padding:220px 250px;
+        padding-top: 10px;
+    }
+    footer .col-2, .col-3{
+        display: block;
+        border-right: none;
+        padding:220px 130px;
+        padding-top: 10px;
+    }
+    #copyR{
+        margin-left: 10%;
+        margin-top: -20%;
+    }
+}
+@media (max-width: 375px){
+    footer .col-1 h3{
+        position: absolute;
+       margin-left: -38%;
+       margin-top: -8%;
+    }
+    footer .col-2 h3{
+        position: absolute;
+        margin-left: -5%;
+        margin-top: -8%;
+    }
+    footer .col-3 h3{
+        position: absolute;
+        margin-left: -5%;
+        margin-top: -7%;
+    }
+    footer .col-1 p{
+        margin-right:2%;
+        margin-left: -42%;
+        margin-top: 2%;
+    }
+    footer .col-1{
+        display: block;
+        padding:220px 250px;
+        padding-top: 10px;
+    }
+    footer .col-2, .col-3{
+        display: block;
+        border-right: none;
+        padding:220px 110px;
+        padding-top: 10px;
+    }
+    #copyR{
+        margin-left: 25%;
+        margin-top: -30%;
+    }
+}
